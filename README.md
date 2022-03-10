@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**anguecalmon/anguecalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## André Calmon 👨🏻‍💻
+### Olá, Devs!! 👋🏼
+Atualmente cursando desenvolvimento de sistemas 💻  na Etec Camargo Aranha, sou apaixonado por programação, e resido na Zona Norte de São Paulo 🌆.
 
-Here are some ideas to get you started:
+- 🏫 Cursando o 3º ano do **ensino médio**
+- 🔭 Estudando **Desenvolvimento de Sistemas**
+- 📫 Como entrar em contato comigo: **@anguecalmon**
+- ⚡ Curiosidade: Já realizei um curso de 6 meses de **Java** ☕
+- 🥕 Sou vegetariano há 2 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Estou aprendendo 📚:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+
+### Contatos 📞:
+
+<a href="https://instagram.com/anguecalmon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a 
+href="https://www.linkedin.com/in/andrecalmoon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:calmon.principal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
