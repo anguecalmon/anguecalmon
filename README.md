@@ -1,4 +1,3 @@
-
 ### Olá, Devs!! 👋🏼
 
 Me chamo André Calmon, tenho 17 anos e sou apaixonado por programação. Aqui você encontrará alguns dos meus projetos 🌆.
