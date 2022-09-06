@@ -1,3 +1,4 @@
+
 ### Olá, Devs!! 👋🏼
 
 Me chamo André Calmon, tenho 17 anos e sou apaixonado por programação. Aqui você encontrará alguns dos meus projetos 🌆.
@@ -7,14 +8,11 @@ Me chamo André Calmon, tenho 17 anos e sou apaixonado por programação. Aqui v
 - 🥕 Sou vegetariano há 2 anos.
 - 📫 Como entrar em contato comigo: **@anguecalmon**.
 
+### O que estou estudando atualmente:
 
+<div align="center" class="imagens_home"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50"  height="50"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50"  height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/> 
 
-### Front-end 🎨:
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40"  height="40"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40"  height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"  height="40"/>
-
-
-### Back-end 💻:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/> 
+</div>
 
 ### Contatos ☎:
 
