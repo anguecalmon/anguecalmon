@@ -2,7 +2,7 @@
 
 Me chamo André Calmon, tenho 18 anos e sou apaixonado por programação. Aqui você encontrará alguns dos meus projetos 🌆.
 
-- 🔭 Cursando o 3º semestre de **Desenvolvimento de Sistemas** na Etec Prof. Camargo Aranha.
+- 🔭 Formado em **Desenvolvimento de Sistemas** na Etec Prof. Camargo Aranha.
 - ⚡ Curiosidade: Já realizei um curso de 6 meses de **Java**.
 - 📫 Como entrar em contato comigo: **@anguecalmon** em todas as redes sociais.
 
